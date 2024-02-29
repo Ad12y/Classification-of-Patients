@@ -1,4 +1,4 @@
-# Classification-of-Patients
+# Predictive Modeling for Blood Pressure Abnormality
 This GitHub repository contains the code and resources used to conduct a preliminary prognosis of hypertension/hypotension based on the level of hemoglobin and genetic history of individuals. The project aims to employ statistical techniques, including traditional and state-of-the-art machine learning algorithms, to build models that predict the likelihood of blood pressure abnormalities.
 
 Contents:
